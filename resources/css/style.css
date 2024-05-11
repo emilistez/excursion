@@ -19,6 +19,10 @@ a {
     font-size: 16px;
 }
 
+.video {
+    display: flex;
+    justify-content: center;
+}
 p {
     color: grey;
     font-size: 21px;
